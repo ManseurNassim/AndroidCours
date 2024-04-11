@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">DeuxiemeProjet</string>
+    <string name="title_bouton_ok" translatable="false">Clic the button and see ! </string>
+</resources>
