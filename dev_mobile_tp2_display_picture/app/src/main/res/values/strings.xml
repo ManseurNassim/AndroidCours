@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Affiche image</string>
+    <string name="push_button">Appuie</string>
+    <string name="cadreimage">Cadre image</string>
+</resources>

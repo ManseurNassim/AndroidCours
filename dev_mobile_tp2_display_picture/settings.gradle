@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='dev_mobile_tp2_display_picture_version_2'

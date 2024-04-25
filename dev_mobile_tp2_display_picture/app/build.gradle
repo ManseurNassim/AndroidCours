@@ -1,0 +1,18 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 31
+    defaultConfig {
+        applicationId "fr.einfolearning_tp2_v2"
+        minSdkVersion 17
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+    }
+    namespace 'fr.einfolearning_tp2_v2'
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
